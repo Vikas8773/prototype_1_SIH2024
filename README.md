@@ -69,9 +69,15 @@ Bad apples: Yellow bounding boxes
 
 ## Results
 - The model achieves high accuracy in detecting and categorizing apples.
-- Below is an example of the detection results:
+- Below are two examples of the detection results showing both good (blue box) and bad (yellow box) apples:
 
-    ![Apple Detection Example](https://github.com/Vikas8773/prototype_1_SIH2024/blob/main/Output%20Images/image%201.png)
+    **Example 1: Detection Result 1**
+    
+    ![Apple Detection Example 1](https://github.com/Vikas8773/prototype_1_SIH2024/blob/main/Output%20Images/image%201.png)
+
+    **Example 2: Detection Result 2**
+    
+    ![Apple Detection Example 2](path-to-your-second-image)
 
 ## Contributing
 Contributions are welcome! Please follow the steps below:
