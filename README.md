@@ -7,9 +7,7 @@ This project aims to detect good and bad apples using YOLOv3 and OpenCV. The mod
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [How It Works](#how-it-works)
-- [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -58,14 +56,6 @@ Bad apples: Yellow bounding boxes
   - **Blue** for good apples
   - **Yellow** for bad apples
  
-  
-## Usage
-1. Place your images of apples in the `images/` directory.
-2. Run the detection script:
-    ```bash
-    python detect_apples.py
-    ```
-3. The output will display the images with bounding boxes around the detected apples.
 
 ## Results
 - The model achieves high accuracy in detecting and categorizing apples.
@@ -77,14 +67,7 @@ Bad apples: Yellow bounding boxes
 
     **Example 2: Detection Result 2**
     
-    ![Apple Detection Example 2](path-to-your-second-image)
-
-## Contributing
-Contributions are welcome! Please follow the steps below:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Submit a pull request.
+    ![Apple Detection Example 2](https://github.com/Vikas8773/prototype_1_SIH2024/blob/main/Output%20Images/image%202.png)
 
 ## License
 This project is licensed under the MIT License.
